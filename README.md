@@ -17,3 +17,4 @@ Allow repository users to digitally sign committed changes, so that:
 If changeset signing is enabled, the client sends a signed hash of the
 changes to the server as part of the commit. This signature is stored
 in a new revprop, svn:signature.
+this release is for july 2020
